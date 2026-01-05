@@ -1,0 +1,33 @@
+Directory: C:\Users\SA TRADER\Desktop\all_Hackathon\Hackathon 1 Book\Jamshed_00_Physical AI Handbook origional\Physical AI Handbook
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        12/23/2025  11:17 PM                .claude
+d-----        12/23/2025   7:34 AM                .specify
+d-----        12/24/2025   1:25 PM                backend
+d-----        12/24/2025   2:12 PM                knowledge_base
+-a----        12/24/2025  12:24 PM           4311 .env.development.example
+-a----        12/24/2025   7:36 AM           4192 .env.example
+-a----        12/24/2025  12:26 PM           6249 .env.production.example
+-a----        12/24/2025  12:24 PM           4882 .env.testing.example
+
+
+
+
+
+https://github.com/jamshedulhaquesheikh86-cmyk/Physical-AI-Handbook_0001
+
+
+
+https://chatgpt.com/share/694ae328-a130-8012-8df3-6d4d1b028518
+
+
+
+https://physical-ai-handbook.vercel.app/
+
+
+https://chatgpt.com/share/694ae328-a130-8012-8df3-6d4d1b028518
+
+https://chatgpt.com/share/694c1d90-aeac-8013-b46e-1c654812ff7b
+

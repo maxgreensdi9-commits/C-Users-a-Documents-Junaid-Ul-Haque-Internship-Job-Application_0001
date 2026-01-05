@@ -1,0 +1,44 @@
+
+
+
+Frontend Developer
+We are seeking a motivated Frontend Developer to join our team. The candidate will be responsible for building and maintaining integrations with third-party APIs (such as Facebook, Instagram, LinkedIn, etc.) to extract and process data. The role also involves contributing to the development of scalable web applications using Django, and supporting backend and frontend development with Nodejs, Expressjs, and Nextjs.
+
+Note: This is an excellent opportunity for someone eager to learn, grow, and work on modern full-stack development projects.
+
+Responsibilities
+Write clean, reusable, and well-documented code.
+Work closely with the team to deliver projects on time.
+Assist in frontend development tasks using Nextjs (React framework).
+Develop scripts and services to extract, transform, and load (ETL) data from third-party APIs (Facebook, Instagram, LinkedIn, Google, etc.).
+Collaborate with senior developers to build and maintain Django applications.
+Integrate and manage authentication flows (OAuth 2.0, API tokens, etc.) for third-party platforms.
+Troubleshoot, debug, and optimize application performance.
+Contribute to backend API development using Nodejs and Expressjs.
+Required Skills & Qualifications
+Basic understanding of databases (MS SQL, PostgreSQL, or MongoDB).
+Knowledge of OAuth 2.0 authentication.
+Strong problem-solving and debugging skills.
+Experience with Django framework (basic models, views, REST APIs).
+Strong knowledge of Python (with focus on requests, data processing, JSON handling).
+Familiarity with Git / version control systems.
+Experience in consuming and handling RESTful APIs (Facebook Graph API, Instagram Graph API, LinkedIn API, etc.).
+Familiarity with Nodejs and Expressjs for backend services.
+Basic understanding of Nextjs / Reactjs for frontend tasks.
+Preferred (Nice to Have)
+Interest in BI dashboards or reporting tools.
+Knowledge of Web Development.
+Basic understanding of analytics/insights data from social media APIs.
+Education & Experience
+Internship or project experience with APIs and web frameworks is a plus.
+0–3 years of experience in Python or full-stack development.
+Bachelor’s degree in Computer Science, IT, or related field (or equivalent practical experience)
+
+/sp.constitution
+/sp.clarify
+/sp.specify
+/sp.task
+/sp.plan
+/sp.implementation
+
+

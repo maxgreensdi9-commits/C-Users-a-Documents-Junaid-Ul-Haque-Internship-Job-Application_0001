@@ -1,0 +1,282 @@
+
+
+
+https://youtu.be/5cAntC4Q0G8?si=FSm1c0e3XKEK5qEB
+https://chatgpt.com/share/694ae328-a130-8012-8df3-6d4d1b028518
+
+/sp.plan
+Plan Name: AI-Native Research Paper & Textbook Execution Plan
+
+Plan Type:
+Structured research, writing, and validation plan
+
+Purpose:
+Define how the research paper and textbook will be designed, written, validated, and tested while complying with the project constitution and academic standards.
+
+---
+
+## Architecture Sketch
+
+### System Overview
+
+The project consists of four tightly integrated layers:
+
+1. Knowledge Layer
+   - Peer-reviewed papers
+   - Authoritative industry sources
+   - Course-provided technical documentation
+
+2. Content Layer
+   - Research paper chapters
+   - Textbook modules (aligned with course structure)
+   - Embedded citations (APA)
+
+3. Intelligence Layer
+   - AI writing agent (constitution-bound)
+   - Fact-checking agent
+   - Citation validation agent
+   - RAG chatbot (book-grounded only)
+
+4. Validation Layer
+   - Plagiarism detection
+   - Citation traceability checks
+   - Readability analysis
+   - RAG answer verification
+
+---
+
+## Section Structure
+
+### High-Level Structure
+
+1. Abstract
+2. Introduction & Motivation
+3. Background & Related Work
+4. Foundations of Physical AI
+5. Systems Architecture (ROS 2, Simulation, Isaac)
+6. Experimental / Applied Analysis
+7. Case Studies & Capstone Design
+8. Discussion & Synthesis
+9. Limitations & Future Work
+10. Conclusion
+11. References (APA)
+
+---
+
+## Research Approach
+
+### Research-Concurrent Writing Model
+
+Research and writing proceed in parallel:
+
+- Sources are discovered and evaluated while drafting sections
+- Claims are written only after source verification
+- Each paragraph is traceable to at least one citation
+
+This avoids:
+- Front-loaded research delays
+- Uncited or speculative writing
+
+---
+
+## Phase-Based Execution
+
+### Phase 1: Research
+- Identify peer-reviewed and authoritative sources
+- Classify sources by relevance and credibility
+- Maintain a live source registry
+
+### Phase 2: Foundation
+- Define terminology and theoretical grounding
+- Establish consistent technical vocabulary
+- Align with course learning outcomes
+
+### Phase 3: Analysis
+- Examine systems, architectures, and workflows
+- Compare tools, platforms, and design choices
+- Present empirical or literature-backed insights
+
+### Phase 4: Synthesis
+- Integrate findings across sections
+- Identify patterns, tradeoffs, and implications
+- Translate insights into actionable guidance
+
+---
+
+## Decisions Needing Documentation
+
+All major decisions must be explicitly documented with:
+
+- Decision statement
+- Available options
+- Selected option
+- Tradeoffs and rationale
+
+### Key Decisions Include:
+
+1. Simulation-first vs. hardware-first learning
+   - Option A: Simulation-first (lower cost, scalable)
+   - Option B: Hardware-first (higher realism, higher cost)
+
+2. ROS 2 + Isaac vs. alternative robotics stacks
+   - Tradeoff: Ecosystem maturity vs. learning curve
+
+3. RAG chatbot grounding scope
+   - Book-only grounding vs. external source access
+
+4. Cloud-native lab vs. on-premise lab
+   - CapEx vs. OpEx tradeoffs
+
+---
+
+## Quality Validation
+
+### Validation Dimensions
+
+1. Accuracy
+   - All claims linked to verifiable sources
+
+2. Reproducibility
+   - Steps and configurations clearly documented
+
+3. Citation Integrity
+   - APA compliance
+   - No missing or fabricated references
+
+4. Readability
+   - Flesch-Kincaid Grade 10–12
+
+5. Originality
+   - 0% plagiarism tolerance
+
+---
+
+## Testing Strategy
+
+### Acceptance-Criteria–Driven Validation
+
+Each section must pass:
+
+1. Fact Verification Test
+   - Every factual claim has a citation
+
+2. Citation Audit
+   - ≥ 50% peer-reviewed sources
+
+3. Plagiarism Scan
+   - Zero copied or improperly paraphrased text
+
+4. Readability Test
+   - Target grade level met
+
+5. RAG Response Test
+   - Chatbot answers match source text exactly
+   - Refusal when data is unavailable
+
+---
+
+## Completion Criteria
+
+The plan is complete when:
+
+- All phases executed and documented
+- All decisions logged with tradeoffs
+- All validation tests passed
+- Content is publication-ready and deployable
+
+=========================================================================
+
+🟦 Phase 1: Setup
+
+https://youtu.be/5cAntC4Q0G8?si=FSm1c0e3XKEK5qEB
+ Next the best prompt liker do. Prompt should be maximum in 72 line
+Status: جزوی مکمل
+
+✅ T001 — Backend project structure (Complete)
+
+⏳ T002 — Backend configuration & core app setup
+
+⏳ T003 — Base database configuration & connection setup
+
+⏳ T004 — Initial ORM / data model base classes   
+                                  
+⏳ T005 — Test framework bootstrap & pytest config
+
+⏳ T006 — Environment separation (dev / test / prod)
+
+⏳ T007 — Logging configuration
+
+⏳ T008 — Dependency management & requirements lock
+
+➡️ Phase 1 Remaining: 7 Tasks
+
+🟦 Phase 2: Foundational (🚨 CRITICAL BLOCKER)
+
+Status: Not Started
+
+⏳ T009 — Domain terminology definition (glossary)
+
+⏳ T010 — Physical AI concept hierarchy
+
+⏳ T011 — Topic taxonomy & decomposition rules
+
+⏳ T012 — Claim–citation data model
+
+⏳ T013 — Source registry structure
+
+⏳ T014 — Academic reference validation rules
+
+⏳ T015 — Content section schema (chapter / section / claim)
+
+⏳ T016 — Decision log data model
+
+⏳ T017 — RAG grounding boundaries definition
+
+⏳ T018 — Retrieval unit (chunk) specification
+
+⏳ T019 — Metadata standards for chunks
+
+⏳ T020 — Academic writing constraints encoding
+
+⏳ T021 — Reproducibility metadata schema
+
+⏳ T022 — Source credibility classification
+
+⏳ T023 — Peer-reviewed vs industry labeling logic
+
+⏳ T024 — Validation rule definitions
+
+⏳ T025 — Foundational architecture review & lock
+
+➡️ Phase 2 Remaining: 17 Tasks
+
+🟦 Phase 3: User Story 1 — MVP
+
+Status: Not Started
+
+⏳ T026 — Topic creation API
+
+⏳ T027 — Topic hierarchy storage
+
+⏳ T028 — Topic decomposition service
+
+⏳ T029 — Claim creation workflow
+
+⏳ T030 — Claim validation logic
+
+⏳ T031 — Citation attachment workflow
+
+⏳ T032 — Source linking API
+
+⏳ T033 — Topic–claim relationship rules
+
+⏳ T034 — Basic academic integrity checks
+
+⏳ T035 — MVP API integration tests
+
+⏳ T036 — MVP contract tests
+
+⏳ T037 — MVP review & acceptance
+
+==================================================================================
+Jamshed002$$

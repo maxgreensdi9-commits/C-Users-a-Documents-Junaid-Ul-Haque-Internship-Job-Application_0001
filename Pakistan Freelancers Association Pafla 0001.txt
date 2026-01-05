@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+Pakistan Freelancers Association Pafla 0001
+
+
+
+
+create all new pages on 
+Home.html
+About.html
+Services.html
+Membership.html
+Events.html
+Contact.html
+Login.html
+Join Now.html

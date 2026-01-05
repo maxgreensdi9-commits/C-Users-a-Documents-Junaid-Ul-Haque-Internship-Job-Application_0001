@@ -1,0 +1,24 @@
+
+
+
+
+
+PAF IAST Policy Advisor RAG System 0001
+
+
+
+PAF IAST Academic Compliance System, RAG Based Policy Advisor
+
+This project is a deployment ready Retrieval Augmented Generation chatbot created for the Programming for Artificial Intelligence semester project. It provides instant, accurate and verified 
+
+answers to student academic policy questions by converting large unstructured university rulebooks into a clean searchable knowledge base.
+
+
+https://github.com/hassaan-munir/PAF-IAST-Policy-Advisor-RAG
+
+
+https://paf-iast-policy-advisor.streamlit.app/
+
+
+
+

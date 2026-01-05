@@ -1,0 +1,36 @@
+
+
+
+
+
+
+https://www.youtube.com/watch?v=TmbAEx9de7s
+
+https://yt-blogs.subhankaladi.xyz/blog/skills-in-claude-code
+
+Sub-Agents in Claude Code
+
+https://www.youtube.com/watch?v=r-wvRH2WC70
+
+
+https://yt-blogs.subhankaladi.xyz/blog/sub-agents-in-claude-code
+
+
+
+ANTHROPIC_BASE_URL="https://go.trybons.ai" ANTHROPIC_AUTH_TOKEN="AIzaSyAguNLXNi5hpDJ-FSVXG-V2DoIooL0F3tw" claude
+
+
+
+
+# Create Claude Code settings directory
+mkdir -p ~/.claude
+
+# Create global settings file
+cat > ~/.claude/settings.json << EOF
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://go.trybons.ai",
+    "ANTHROPIC_AUTH_TOKEN": "AIzaSyAguNLXNi5hpDJ-FSVXG-V2DoIooL0F3tw"
+  }
+}
+EOF

@@ -1,0 +1,103 @@
+
+class 10 Governor-House-Afternoon-Q4
+
+Sir Ali Jawwad Classes One 0001
+
+
+
+FrontEnd Nextjs URL
+localhost:3000
+
+
+FASTAPI backened URL
+localhost:8000
+
+
+
+npx create 
+
+
+
+
+uv add fastapi (enter it)
+
+uv run uvicorn main:app --reload
+
+
+
+
+
+
+from fastapi import FASTAPI
+
+
+app = FASTAPI()
+
+
+@app.get("/health")
+async def health_check
+
+
+if_name_==
+
+
+
+localhost:8000/docs
+
+
+
+status 200 Response body
+
+
+
+{
+ "status": healthy!!"
+}
+
+
+
+4XX  -- User/Dev error    Developer ka masla hain 
+
+5XX  -- Server Related Error  Server ka masla hain
+
+github.com/ali
+
+
+
+vercel.com == storage == > neon  continue ===> created 
+
+.env
+
+
+GET /healthy Health Check 
+
+
+
+Install packages
+
+
+uv add fastapi
+
+uv add pydantic
+
+uv add sqlmodel
+
+uv add python-dotenv
+
+
+
+CLASS DEFINITIONS WOULD GO HERE
+
+SQLModel,
+
+class
+
+sqlmodel.tiangolo.com/#create-a-sql
+
+
+
+
+
+
+
+

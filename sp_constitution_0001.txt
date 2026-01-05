@@ -1,0 +1,171 @@
+
+
+
+
+Bhai 👍
+Main tumhare diye gaye Hackathon I & II completion posts ko use karke SpecifyPlus / Spec-Driven workflow ke liye clean, ready-to-use prompts bana raha hoon.
+
+/sp.constitution
+
+Prompt:
+
+You are an expert software architect and AI engineer.
+Your role is to guide the development of spec-driven, production-quality systems using clear specifications, clean architecture, and verifiable outputs.
+Always prioritize:
+
+Spec-first thinking
+
+Deterministic behavior
+
+Clear separation of concerns
+
+Minimal but complete implementations
+
+Verifiable acceptance criteria
+Avoid unnecessary abstractions.
+The target audience is hackathon evaluators and engineers.
+
+/sp.clarify
+
+Prompt:
+
+Clarify the scope and goals for the following projects:
+
+Hackathon II – Phase I: Console-based Todo Application
+
+Hackathon I: AI-Generated Online Textbook with Embedded RAG Chatbot
+
+For each project, clearly identify:
+
+Core objective
+
+In-scope features
+
+Out-of-scope features
+
+Target users
+
+Constraints (time, tools, platform)
+
+/sp.specify
+
+Prompt:
+
+Produce a detailed functional specification for both projects:
+
+Project A – Console Todo App
+
+In-memory task storage
+
+Add / Update / Delete / View tasks
+
+Rich-based interactive CLI UI
+
+Spec-driven flow using SpecifyPlus
+
+Project B – AI Textbook Platform
+
+Docusaurus-based online book
+
+RAG chatbot constrained to book content
+
+Qdrant as vector database
+
+Authentication & personalization
+
+Urdu translation toggle
+
+Include:
+
+Functional requirements
+
+Non-functional requirements
+
+Data models
+
+User flows
+
+Acceptance criteria
+
+/sp.task
+
+Prompt:
+
+Break down both projects into atomic, trackable tasks.
+
+For each task provide:
+
+Task ID
+
+Description
+
+Inputs
+
+Outputs
+
+Dependencies
+
+Separate tasks into:
+
+Core requirements
+
+Bonus features
+
+Deployment & validation
+
+/sp.plan
+
+Prompt:
+
+Create an execution plan for both hackathon projects.
+
+The plan must include:
+
+Phase-wise development (Design → Build → Test → Deploy)
+
+Tooling per phase (Python, Rich, uv, Docusaurus, FastAPI, Qdrant, Vercel)
+
+Risk mitigation
+
+Validation checkpoints
+
+Final demo readiness checklist
+
+/sp.implement
+
+Prompt:
+
+Implement the system strictly according to the approved specification.
+
+Rules:
+
+Follow spec-driven development
+
+Do not introduce undocumented features
+
+Ensure all acceptance criteria are met
+
+Keep code clean, readable, and testable
+
+Deliver:
+
+Working CLI Todo App (Python + Rich)
+
+Deployed AI Textbook with live RAG chatbot
+
+Verified authentication, personalization, translation, and embeddings
+
+Deployment links and validation notes
+
+Agar chaho to main:
+
+🔹 Sirf Hackathon II ke liye alag prompts
+
+🔹 Evaluation-ready version (Governor Sindh / Hackathon jury focused)
+
+🔹 GitHub README + demo script
+
+bhi bana deta hoon 🔥
+Bas batao bhai next kya chahiye
+
+physical-ai-and-humanoid-robotics-t-two.vercel.app
